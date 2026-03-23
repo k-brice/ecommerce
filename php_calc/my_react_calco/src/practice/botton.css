@@ -1,0 +1,12 @@
+.botton-wrapper{
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    background-color: aqua;
+    color: white;
+    flex: 1;
+    margin: 4px;
+    border-radius: 20px;
+}

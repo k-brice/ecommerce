@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;    
+    border-radius: 50px;
+}
+.box{
+    padding: 20px;
+    border-radius: 50px;
+    background-color: aqua;
+    height: 50mm;
+    width: 90mm;
+}
+.restart{
+    padding: 10px;
+    background-color: cornflowerblue;
+    width: 30mm;
+    border-radius: 20px;
+}
