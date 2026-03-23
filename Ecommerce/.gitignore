@@ -1,0 +1,16 @@
+# Local environment files
+.env
+.env.local
+
+# Laragon / Local server files
+.htaccess
+error_log
+php_errors.log
+
+# PM2 logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
