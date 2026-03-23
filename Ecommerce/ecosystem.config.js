@@ -2,7 +2,7 @@ module.exports = {
   apps : [{
     name   : "ecommerce-app",
     script : "php",
-    args   : "-S 0.0.0.0:80 -t pages/",
+    args   : "-S 0.0.0.0:80 -t /var/www/html/Ecommerce/pages/",
     cwd    : "/var/www/html/Ecommerce",
     interpreter: "none",
     env: {
